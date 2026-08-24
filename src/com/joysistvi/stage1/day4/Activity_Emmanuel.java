@@ -6,7 +6,7 @@ public class Activity_Emmanuel {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Input mula sa user
+        // Input from user
         System.out.print("Income: ");
         int income = sc.nextInt();
 
@@ -16,7 +16,7 @@ public class Activity_Emmanuel {
         double rentRate = 9.0;
         double utilityRate = 7.0;
 
-        // Computation ng bawas
+        // Computation of reduction
         double foodExpense = income * (foodRate / 100);
         double transpoExpense = income * (transpoRate / 100);
         double rentExpense = income * (rentRate / 100);
