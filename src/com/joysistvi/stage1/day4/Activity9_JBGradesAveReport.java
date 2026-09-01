@@ -2,7 +2,7 @@ package com.joysistvi.stage1.day4;
 
 import java.util.Scanner;
 
-public class Activity8_JBGradesAveReport {
+public class Activity9_JBGradesAveReport {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
