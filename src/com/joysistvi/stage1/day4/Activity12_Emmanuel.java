@@ -82,6 +82,6 @@ public class Activity12_Emmanuel {
         checkVoterStatus(18);
         printWordLength("Philippines");
         printWordReverse("Computer");
-        printNameAndAge("Janine Beatriz Emmanuel", 18);
+        printNameAndAge("Janine Beatriz Emmanuel", 19);
     }
 }
